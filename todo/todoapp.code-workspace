@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../Projects/flutter/todoapp"
+		},
+		{
+			"name": "flutter",
+			"path": "../../../Projects/flutter/todoapp/flutter"
+		}
+	],
+	"settings": {}
+}
